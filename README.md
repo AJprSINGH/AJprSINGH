@@ -17,15 +17,14 @@ Hello! 👋 I'm Ajit Singh, a passionate front-end developer with expertise in R
 ### 📚 Education
 
 - **B.Tech, Lovely Professional University** (2020 - 2024)
-  Brief description of your degree and relevant coursework.
 
 ### 🌐 Connect with Me
 
-- [LinkedIn]https://www.linkedin.com/in/ajit-singh63555/)
+- [LinkedIn]https://www.linkedin.com/in/ajit-singh63555/
 
 ### 📄 Resume
 
-Download my [resume](link-to-resume.pdf) for more details about my work experience and skills.
+Download my [resume](https://coffee-alyss-48.tiiny.site/) for more details about my work experience and skills.
 
 ### 📫 Contact
 
