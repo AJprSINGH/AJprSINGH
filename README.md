@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 # Ajit Singh
 
@@ -20,7 +21,7 @@ Hello! 👋 I'm Ajit Singh, a passionate front-end developer with expertise in R
 
 ### 🌐 Connect with Me
 
-- [LinkedIn]https://www.linkedin.com/in/ajit-singh63555/
+- [LinkedIn](https://www.linkedin.com/in/ajit-singh63555/)
 
 ### 📄 Resume
 
@@ -28,7 +29,7 @@ Download my [resume](https://coffee-alyss-48.tiiny.site/) for more details about
 
 ### 📫 Contact
 
-Feel free to reach out to me at (mailto:ajitsinghprhr123@gmail.com) for any inquiries or collaboration opportunities.
+Feel free to reach out to me at [my email](mailto:ajitsinghprhr123@gmail.com) for any inquiries or collaboration opportunities.
 
 Thank you for visiting my GitHub profile! 🚀
 
